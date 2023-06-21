@@ -13,3 +13,6 @@ pip install aiogram
 bot_token = "Ваш токен бота"
 chat_id = "Ваш токен айди чата"
 data_file = "Путь к текстовму файлу"
+
+# Запуск 
+python main.py
